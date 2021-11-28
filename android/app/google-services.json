@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "225721857859",
+    "project_id": "wave-weather-a3ddf",
+    "storage_bucket": "wave-weather-a3ddf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225721857859:android:67b9d0f76f018fb3afe1f6",
+        "android_client_info": {
+          "package_name": "com.wave_weather"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "225721857859-76j8thufsthgvav3kndjk4rrt0sqpgk4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTZVwKljhAHo2YOvypIp0eBTvND-MLHNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "225721857859-76j8thufsthgvav3kndjk4rrt0sqpgk4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-2072140483759075~4970514637"
+    }
+  ],
+  "configuration_version": "1"
+}
